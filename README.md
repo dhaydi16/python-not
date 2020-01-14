@@ -1,0 +1,2 @@
+# python-not
+python notlarım
